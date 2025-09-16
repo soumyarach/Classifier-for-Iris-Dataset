@@ -3,12 +3,12 @@
 # What I Built?
 I built a Python script that loads the Iris dataset, performs basic exploratory data analysis (EDA), and creates visualizations to understand the distribution of features across different Iris species (setosa, versicolor, virginica).
 
-# Why I Built It?
+# Why I Built ?
 - Learning and Exploration: To understand patterns in the classic Iris dataset, a staple in machine learning.
 - Visualization: To see how features like sepal length/width and petal length/width vary across species.
 - EDA Practice: To practice exploratory data analysis techniques using pandas, seaborn, and matplotlib.
 
-# How I Built It?
+# How I Built ?
 1. Data Loading: Used load_iris() from sklearn.datasets to get the Iris data.
 2. DataFrame Creation: Converted data into a pandas DataFrame with species as a categorical variable.
 3. Summary Statistics: Printed descriptive statistics using df.describe().
